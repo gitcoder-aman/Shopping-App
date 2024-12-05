@@ -138,7 +138,7 @@ class MainActivity : ComponentActivity(),PaymentResultWithDataListener{
     }
     fun initPayment(payableAmount : Int) {
 
-        checkout.setKeyID("rzp_test_BxUQf3fryJNGIv")
+        checkout.setKeyID(R.string.rzr_key.toString())
         val activity = this
         try {
             val options = JSONObject()
