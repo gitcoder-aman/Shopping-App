@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "833443420793",
+    "project_id": "chatappcompose-1b77d",
+    "storage_bucket": "chatappcompose-1b77d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833443420793:android:3bfcf984158a5aedd0d2a8",
+        "android_client_info": {
+          "package_name": "com.tech.chatappcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833443420793-a6pu4nqomq8anckkudrr2avcud4tb5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAM1ewaO8i9esNtlNQd_NNsk73dEuU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833443420793-0cdfrj1mjfd3hc4q8018dtjtkjgcii6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833443420793:android:ba9cb6287f033bfcd0d2a8",
+        "android_client_info": {
+          "package_name": "com.tech.indiaekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833443420793-a6pu4nqomq8anckkudrr2avcud4tb5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAM1ewaO8i9esNtlNQd_NNsk73dEuU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833443420793-0cdfrj1mjfd3hc4q8018dtjtkjgcii6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833443420793:android:758f6d3c2af90107d0d2a8",
+        "android_client_info": {
+          "package_name": "com.tech.indiaekartshoppinguser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833443420793-j3frrehcd4872t5s9g8c6f8mic375euu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.indiaekartshoppinguser",
+            "certificate_hash": "8b30bff4abe3623fbbd6d32938141a71a56fee4c"
+          }
+        },
+        {
+          "client_id": "833443420793-a6pu4nqomq8anckkudrr2avcud4tb5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAM1ewaO8i9esNtlNQd_NNsk73dEuU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833443420793-0cdfrj1mjfd3hc4q8018dtjtkjgcii6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
